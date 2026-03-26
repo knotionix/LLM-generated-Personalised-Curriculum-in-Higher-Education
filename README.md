@@ -155,7 +155,7 @@ The OULAD dataset is **not included** in this repository due to file size. You m
 
 ### Download Instructions
 
-1. Go to: **https://analyse.kmi.open.ac.uk/open_dataset**
+1. Go to: **[https://analyse.kmi.open.ac.uk/open_dataset](https://analyse.kmi.open.ac.uk/open-dataset)**
 2. Click **Download Dataset**
 3. Extract the ZIP file
 4. You will get 7 CSV files
