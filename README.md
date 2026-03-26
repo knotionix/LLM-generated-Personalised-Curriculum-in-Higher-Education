@@ -1,7 +1,7 @@
 # LLM-Driven Adaptive Learning Systems
 ## Designing LLM-Driven Adaptive Learning Systems for Personalised Curriculum Development in Higher Education
 
-**MSc Web and Data Science — University of Koblenz — 2025**  
+**MSc Web and Data Science — University of Koblenz — 2025-26**  
 **Team 4:** Sanjay Selvam Umadevi · Muhammed Sabik Kunnummal · Shirisha Shivakumar · Alisha Kabeer
 
 ---
@@ -112,10 +112,6 @@ pip install scikit-learn
 ### Step 1 — Clone or unzip the project
 
 ```bash
-# If using a zip file:
-unzip project.zip
-cd project/
-
 # If using git:
 git clone <repository-url>
 cd project/
