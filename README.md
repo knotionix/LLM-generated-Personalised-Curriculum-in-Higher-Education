@@ -257,7 +257,7 @@ hf_client = InferenceClient(
 )
 ```
 
-> **Note:** HuggingFace inference via Cerebras is **free** for LLaMA-3.1-8B. No billing required. Rate limits apply on the free tier which is why the notebook uses 1000 max tokens for HuggingFace vs 3000 for OpenAI.
+> **Note:** HuggingFace inference via Cerebras is **free** for LLaMA-3.1-8B. No billing required.
 
 ---
 
