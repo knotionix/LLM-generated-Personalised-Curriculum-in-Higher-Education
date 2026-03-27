@@ -162,7 +162,7 @@ data/
 In **Cell 4**, update `BASE_PATH` to match where you placed your data:
 
 ```python
-BASE_PATH = "../data/archive"   # ← change this if needed
+BASE_PATH = "../"   # ← change this if needed
 ```
 
 **Examples:**
