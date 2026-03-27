@@ -1,0 +1,15 @@
+Dataset Link
+======================================================
+
+Go to: 
+
+https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad
+
+Click Download Dataset
+Extract the ZIP file
+You will get 7 CSV files
+
+
+Repository Link
+=========================================================
+https://github.com/knotionix/LLM-generated-Personalised-Curriculum-in-Higher-Education
