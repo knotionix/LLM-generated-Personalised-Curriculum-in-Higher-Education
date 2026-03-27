@@ -136,7 +136,7 @@ The OULAD dataset is **not included** in this repository due to file size. You m
 
 ### Download Instructions
 
-1. Go to: **[here]([https://analyse.kmi.open.ac.uk/open-dataset](https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad))**
+1. Go to: **[[https://analyse.kmi.open.ac.uk/open-dataset](https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad)]([https://analyse.kmi.open.ac.uk/open-dataset](https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad))**
 2. Click **Download Dataset**
 3. Extract the ZIP file
 4. You will get 7 CSV files
