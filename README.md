@@ -207,8 +207,7 @@ After loading in Cell 4, you should see:
 
 This project requires **two API keys**. You must replace the placeholder keys in the notebook before running.
 
-> ⚠️ **Important:** The API keys currently in the notebook are the team's own keys. Replace them with your own keys before running to avoid hitting rate limits.
-
+> ⚠️ **Important:** The API keys currently in the notebook are the team's own keys. Replace them with your own keys before running to avoid hitting rate limits, also the current ones might have been deactivated. This is done by Open AI and Huggingface to precvent unauthorized acces of the apis in public Repositories.
 ---
 
 ### API Key 1 — OpenAI (GPT-4o-mini)
