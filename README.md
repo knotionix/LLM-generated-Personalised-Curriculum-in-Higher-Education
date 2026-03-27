@@ -273,26 +273,6 @@ Total runtime: approximately **5–15 minutes** depending on internet speed for 
 
 ---
 
-### Cell-by-cell walkthrough
-
-| Cells | Section | What happens |
-|---|---|---|
-| 1 | Installation | Installs all required libraries |
-| 2 | Imports | Loads all Python libraries |
-| 3–4 | Data Loading | Reads all 7 OULAD CSV files |
-| 5–15 | Preprocessing | Merges CSVs, engineers 13 features |
-| 16–18 | EDA | Plots distribution of final results |
-| 19–26 | XGBoost | Trains pass/fail classifier, plots ROC + confusion matrix + feature importance |
-| 27–30 | Dropout Risk | Computes dropout_risk = 1 − P(pass), plots distribution |
-| 31–32 | SHAP | Runs SHAP analysis on trained XGBoost model |
-| 33–35 | Disengagement | Trains secondary disengagement classifier |
-| 36–50 | Z-Score Gap Detection | Detects skill gaps, computes severity, classifies TMA/CMA |
-| 51–60 | Knowledge Graph | Builds LLM-integrated Course-Concept Graph using GPT-4o-mini |
-| 61–69 | Prompt Builder | Builds advanced prompt with 5 adaptive rules |
-| 70–75 | Curriculum Generation | Generates 6-week curricula (OpenAI + HuggingFace) |
-| 76–77 | Single Student Output | Prints curriculum for one selected student |
-| 78–79 | LLM Judge | Runs multi-student comparison and scoring across 9 metrics |
-
 ---
 
 ### Running for a specific student (Cell 65 & 77)
