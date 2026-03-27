@@ -43,21 +43,6 @@ project/
 │
 ├── Final_Code_reviewed.ipynb     ← Main notebook (run this)
 ├── README.md                     ← This file
-│
-├── data/
-│   └── archive/                  ← Place all 7 OULAD CSV files here
-│       ├── assessments.csv
-│       ├── courses.csv
-│       ├── studentAssessment.csv
-│       ├── studentInfo.csv
-│       ├── studentRegistration.csv
-│       ├── studentVle.csv
-│       └── vle.csv
-│
-└── outputs/                      ← Generated graphs and plots saved here
-    ├── llm_knowledge_graph.png
-    ├── student_gap_graph.png
-    └── ...
 ```
 
 ---
