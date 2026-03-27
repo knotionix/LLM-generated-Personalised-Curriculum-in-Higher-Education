@@ -167,7 +167,7 @@ BASE_PATH = "../data/archive"   # ← change this if needed
 
 **Examples:**
 ```python
-BASE_PATH = "data/archive"                    # if running from project root
+BASE_PATH = "../"                    # if running from project root use this
 BASE_PATH = "/Users/yourname/data/archive"    # absolute path (Mac/Linux)
 BASE_PATH = "C:/Users/yourname/data/archive"  # absolute path (Windows)
 ```
